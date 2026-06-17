@@ -1,3 +1,3 @@
 ﻿Console.WriteLine("Hello, Platzi!");
 
-string stripe_api_key= "ghp_000000000000000000000000000000000000";
+string aws_key = "AKIAIOSFODNN7EXAMPLE";
